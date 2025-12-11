@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
+	<a href="https://github.com/darkguyidk/crzy-mod-mennu/releases"><img src="https://img.shields.io/github/v/release/darkguyidk/crzy-mod-mennu?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/darkguyidk/crzy-mod-mennu/releases/latest"><img src="https://img.shields.io/github/downloads/darkguyidk/drzy-mod-mennu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
+	<img alt="GitHub Downloads (specific asset, latest release)" src="https://img.shields.io/github/:variant/darkguyidk/crzy-mod-mennu/latest/crzy-mennu.qmod?displayAssetName=true&logo=oculus">
 	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
